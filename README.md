@@ -1,7 +1,7 @@
 # Spotify transfer
 
 
-## Todo
+## How To
 
 1. prepare accounts
 
@@ -38,3 +38,9 @@ After download, you can see `songs.csv` and `albums.csv`
 
 8. execute transfer.py
 
+
+## Todo
+
+- [ ] add saved playlist
+- [ ] add saved podcasts
+- [ ] automation for authentication if possible
